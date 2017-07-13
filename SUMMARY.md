@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-  * [CodingGuidelines](codingguidelines.md)
+* [CodingGuidelines](CodingGuidelines.md)
+    * [CodingGuidelines](CodingGuidelines-1.md)
 
 
 
