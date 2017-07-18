@@ -2,4 +2,8 @@
 
 * [Introduction](README.md)
 * [CodingGuidelines](CodingGuidelines.md)
-	* [CodingGuidelines-1](CodingGuidelines-1.md)
+  * [CodingGuidelines](CodingGuidelines-1.md)
+  * [CodingGuidelines-2](codingguidelines-2.md)
+
+
+
